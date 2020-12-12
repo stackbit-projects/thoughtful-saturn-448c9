@@ -6,7 +6,7 @@ collections:
     permalink: '/posts/:title/'
 description: An ultra customizable generic theme for Stackbit
 header:
-  title: Starter
+  title: Buffy
   has_nav: true
   nav_links:
     - label: Features
